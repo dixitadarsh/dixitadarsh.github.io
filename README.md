@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! 🚀<br><br>My name is Adarsh and I'm a passionate web developer. <br><br>## About Me<br><br>- 🌐 I specialize in Website / Webapp Development.<br>- 💻 Currently working with Angular , Node js .<br>- 🎓 Studying React , VueJs to get better day by day.
+Welcome to my GitHub profile! 🚀<br><br>My name is Adarsh and I'm a passionate web developer. <br><br> About Me<br><br>- 🌐 I specialize in Website / Webapp Development.<br>- 💻 Currently working with Angular , Node js .<br>- 🎓 Studying React , VueJs to get better day by day.
 
 
 ## 🌐 Socials:
